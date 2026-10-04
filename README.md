@@ -9,6 +9,7 @@ Identitas Proyek
 
 Tema : Toko Daring
 Nama Organisasi : gapsa
-Database : -
+Database : gapsa_36
 
 deskripsi proyek
+Proyek Ini Membahas Perancangan Basis Data Untuk Toko Daring Yg Digunakan Untuk Mengelola Data Produk,Pelanggan,Pesanan Dan Pengiriman Barang. 

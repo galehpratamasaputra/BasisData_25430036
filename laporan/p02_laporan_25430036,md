@@ -80,7 +80,7 @@ F.2
 F.3
 ![kamus data awal](img/p02/f03-kamus-data.png)
 F.4
-![Kebutuhan non-fungsional data](img/p02/f04-non-fungsional.png)
+![Kebutuhan non-fungsional data](img/p02/f04-non-fungsional-data.png)
 F.5
 ![Nota Pesanan](img/p02/nota.png)
 
@@ -96,6 +96,15 @@ Praktikum ini membantu saya memahami proses bisnis,data,aturan bisnis dan kebutu
 
 Saya menggunakan AI untuk memahami materi.Hasil dari AI saya cek kembali dan saya sesuaikan dengan buku materi praktikum.
 
-10. Bukti Git
+10. Bukti Git:
 
-Checklist
+Repository: https://github.com/galehpratamasaputra/BasisData_25430036
+
+commit : ![bukti git](img/p02/bukti-commit.png)
+
+
+Checklist:
+
+- [ ] Berkas wajib: `p02_kebutuhan_data_kopma_25430036.md` dan `p02_kebutuhan_data_25430036.md` (proyek)
+- [ ] Bukti tangkapan layar: Tabel PB, AB, KI, matriks CRUD, dan kamus data di berkas proyek (tangkapan tampilan GitHub)
+- [ ] Analisis wajib: Titik Analisis 1–3, perhitungan parameter P, dan perbaikan kebutuhan yang masih ambigu

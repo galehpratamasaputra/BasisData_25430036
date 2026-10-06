@@ -116,7 +116,21 @@ D : Deleat yaitu menghapus data
 
 9. Kebutuhan non-fungsional data
 
-Toko di perkirakan memiliki sekitar 45 transaksi.Data transaksi di simpan minimal 5 tahun.Data pribadi pelanggan hanya boleh di lihat oleh admin yang mempunyai izin.
+Parameter P
+
+NPM = 25430036
+
+P = (36 mod 9) + 1
+P = 1 
+Batas maksimal item pertransaksi:
+
+P + 2 = 1 + 2 = 3 item
+
+Perkirakan transaksi per hari:
+
+40 + (5 x P) = 40 + 5 = 45 transaksi
+
+Data transaksi di simpan minimal 5 tahun.Data pribadi pelanggan hanya boleh di lihat oleh admin yang mempunyai izin.
 
 10. Isu kualitas data yang diantisipasi
 

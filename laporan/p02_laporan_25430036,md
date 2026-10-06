@@ -1,0 +1,101 @@
+Laporan Praktikum Basis Data - Pertemuan 02
+
+Nama: Galeh Pratama Saputra 
+NPM: 25430036 
+Kelas: B  
+Tanggal: oktober 2026
+Nama Dosen: Dedi Irawan, S.Kom., M.T.I.
+
+1. Tujuan Praktikum
+
+Pada praktikum ini bertujuan untuk memahami proses bisnis,Menentukan data yang di butuhkan dan menyusunnya agar bisa di gunakan dalam database
+
+2. Ringkasan Dasar Teori
+
+Analisis kebutuhan di lakukan sebelum membuat database supaya data yang di simpan sesuai kebutuhan.Data di peroleh dari wawancara,kegiatan kerja,dokumen dan sistem yang ada.Dari data tersebut di tentukan data,aturan bisnis,kebutuhan informasi serta siapa yang bertanggung jawab.Kebutuhan data juga harus jelas asal usulnya dan bisa o di uji.
+
+3. Hasil Langkah Percobaan
+D.1 Membaca Studi Kasus
+![membaca studi kasus](img/p02/d01-studi-kasus.png)
+Keterangan: Pada bagian ini saya membaca cerita kasus kopma untuk memahami kegiatan,siapa aja yang terlibat dan data apa aja yang muncul.
+
+D.2 Memetakan Aktor dan Aktivitas
+![memetakan aktor dan aktivitas](img/p02/d02-aktor-aktivitas.png)
+Keterangan: Menentukan siapa aja yang terlibat dan apa aja yang di lakukan.
+
+D.3 Membedah Dokumen Sumber
+![membedah](img/p02/d03-dokumen-sumber.png)
+keterangan: Melihat nota dan dokumen apa aja yang perlu di catat.
+
+D.4 Menurunkan Entitas Kandidat dan Aturan Bisnis
+![menurunkan entitas & bisnis](img/p02/d04-entitas-aktor.png)
+Keterangan: Menentukan data apa aja yang perlu di simpan dan aturan apa aja yang harus di patuhi.
+
+
+D.5 Kebutuhan Informasi dan Matriks CRUD
+![k info & matriks CRUD](img/p02/d05-informasi-matriks.png)
+Keterangan: Menentukan informasi yang di butuhkan dan hubungan dengan proses data.
+
+
+D.6 Kamus Data Awal dan Kebutuhan Non-Fungsional
+![data awal& nonfungsional](img/p02/d06-kamusdata-nonfungsional.png)
+Keterangan: Mencatat arti,contoh,aturan dan penanggung jawab setiap data
+
+D.7 Menulis Dokumen Kebutuhan Data
+![latar belakang-dokumen sumber](img/p02/d07-1-3.png)
+![entitas kandidat-kebutuhan informasi](img/p02/d07-4-6.png)
+![matriks CRUD-isu kualitas](img/p02/d07-7-10.png)
+Keterangan: Menggabungkan semua hasil dan dokumen kebutuhan data.
+
+4. Jawaban Titik Analisis
+
+Titik Analisis 1:
+"Karena harga barang bisa berubah.Jadi pada nota lama tetap bisa di ketahui,ini sesuai keluhan ketua koperasi yang bingung nota lama karena harga barang sering naik".
+
+Titik Analisis 2:
+"Sub total dan total tidak perlu di simpan karena bisa di hitung lagi dari jumlah barang,harga dan diskon.Tetapi total bisa tetap di simpan karena untuk menyimpan nilai yang tercetak di nota saat transaksi.
+
+Titik Analisis 3:
+" Jadi data pemasok belum di buat,yang perlu di tambahkan yaitu proses mengelola data pemasok.
+Untuk status aktif anggota,Yang mengubah yaitu ketua koperasi".
+
+5. Hasil Latihan dan Modifikasi
+
+E.1 
+![modifikasi 1](img/p02/e01-modifikasi-1.png)
+keterangan: Nomer 4 di bagian anggota di tabel di tambahin poin royalitas saf pertama,nomer 5 tambahin 2 tabel AB.07 dan AB.08.
+![modifikasi 2](img/p02/e01-modifikasi-2.png)
+Keterangan:nomer 6 tambahin satu saf baru KI-05,nomer 7 di bagian PB-02 dari R doang jadi R,U di  anggota
+E.2
+![perbaikan kebutuhan](img/p02/e02-perbaikan.png)
+
+6. Tugas Mandiri: Milestone Proyek 2
+
+F.1
+![proses bisnis](img/p02/f01-proses-bisnis.png)
+![entitas kandidat & aturan bisnis ](img/p02/f01-4-5.png)
+![kebutuhan informasi](img/p02/f01-kebutuhan-informasi.png)
+F.2
+![matriks CRUD](img/p02/f02-matriks.png)
+F.3
+![kamus data awal](img/p02/f03-kamus-data.png)
+F.4
+![Kebutuhan non-fungsional data](img/p02/f04-non-fungsional.png)
+F.5
+![Nota Pesanan](img/p02/nota.png)
+
+7. Pembahasan dan Kendala
+
+Dalam praktikum ini saya bisa membedakan proses,entitas dan data.Proses yaitu kegiatan yang di lakukan,Entitas yaitu sesuatu yang datanya di simpan sedangkan data yaitu informasi yang di catat.Setelah itu semuanya di susun menjadi dokumen kebutuhan data.
+
+8. Kesimpulan
+
+Praktikum ini membantu saya memahami proses bisnis,data,aturan bisnis dan kebutuhan informasi.Dan cara menyusunnya agar data lebih jelas dan teratur.
+
+9. Pernyataan Penggunaan AI
+
+Saya menggunakan AI untuk memahami materi.Hasil dari AI saya cek kembali dan saya sesuaikan dengan buku materi praktikum.
+
+10. Bukti Git
+
+Checklist

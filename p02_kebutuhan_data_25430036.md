@@ -55,7 +55,7 @@ Harga barang saat transaksi perlu di simpan karena harga barang bisa berubah.Ala
 | AB-06 | Alamat pengiriman disimpan sesuai alamat yang digunakan saat memesan. |
 | AB-07 | Pesanan hanya dapat dikirim setelah pembayaran berhasil. |
 | AB-08 | Pesanan yang sudah dikirim harus mempunyai nomor resi. |
-| AB-09 | Stok barang berkurang sesuai jumlah barang yang dibeli. |
+| AB-09 | Stok barang berkurang sesuai jumlah barang yang dibeli. | 
 | AB-10 | Nomor pelanggan harus berbeda untuk setiap pelanggan. |
 
 6. Kebutuhan informasi
